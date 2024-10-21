@@ -52,3 +52,21 @@ p {
   font-family: Copperplate, fantasy;
   color: white;
 }
+#jordans-1-desc {
+  border: solid rgb(241, 117, 0);
+  background-color: rgb(116, 201, 241);
+  border-radius: 0.5em;
+}
+#jordans-2-desc {
+  border: solid rgb(13, 110, 0);
+  background-color: rgb(251, 64, 64);
+  border-radius: 0.5em;
+}
+#row1 {
+  width: 70%;
+}
+#row1-section1 {
+  height: auto;
+  width: 100%;
+  box-shadow: 4px 0px 4px blue;
+}
